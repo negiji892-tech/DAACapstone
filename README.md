@@ -1,8 +1,8 @@
 
 # Mini-Courier Planner
 
-**Student:** Karan Singh Negi  
-**Roll No.:** 2501010261  
+**Student:** ANKUR NEGI
+**Roll No.:** 2501010236
 **Course:** B.Tech CSE  
 **University:** K.R. Mangalam University
 
@@ -26,7 +26,7 @@ Mini-Courier Planner is a Python-based application that uses algorithmic techniq
 
 ### 2. Initial Program Output
 
-![Initial Output](screenshots/Screenshot1.png)
+![Initial Output](screenshots/screenshot1.png)
 
 ### 3. Program Execution
 
@@ -34,15 +34,15 @@ Mini-Courier Planner is a Python-based application that uses algorithmic techniq
 
 ### 4. Parcel Selection and Sorting
 
-![Parcel Selection](screenshots/Screenshot6.png)
+![Parcel Selection](screenshots/screenshot6.png)
 
 ### 5. Shortest Distances and Delivery Route
 
-![Delivery Route](screenshots/Screenshot4.png)
+![Delivery Route](screenshots/screenshot4.png)
 
 ### 6. Final Program Output
 
-![Final Output](screenshots/Screenshot5.png)
+![Final Output](screenshots/screenshot5.png)
 
 ### 7. Performance Graph
 
